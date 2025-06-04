@@ -17,13 +17,13 @@
     --Blue-600: #2C7DFA;
 }
 
-html, body {
+html, body, main {
   margin: 0;
   padding: 0;
   height: 100%;
 }
 
-body {
+main {
     background-color: var(--Slate-300);
     color: var(--Slate 900);
     display: flex;
