@@ -25,7 +25,7 @@ html, body, main {
 
 main {
     background-color: var(--Slate-300);
-    color: var(--Slate 900);
+    color: var(--Slate-900);
     display: flex;
     justify-content: center;
     align-items: center;
